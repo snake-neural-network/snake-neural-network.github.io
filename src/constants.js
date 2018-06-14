@@ -3,12 +3,12 @@
 const GAMES = 60
 const GAME_SIZE = 100
 const GAME_UNIT = 5
-const FRAME_RATE = 45
+const FRAME_RATE = 50
 
 // game bottlenecks
 
 const MAX_TURNS = 5000
-const LOWEST_SCORE_ALLOWED = -50
+const LOWEST_SCORE_ALLOWED = -20
 
 // neural network settings
 
